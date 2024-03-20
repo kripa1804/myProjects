@@ -1,0 +1,4 @@
+The command line dairy app:
+The user can type in a line, press Enter, type in the next line, press Enter, and so on.
+If the user types in “exit” and presses Enter, the program exits.
+When the program exits, the notes are saved in a text file. The name of the text file should be today’s date (e.g., 2024-03-20.txt)
